@@ -1,0 +1,6 @@
+Semi-Truck Cooperative Adaptive Cruise Control with Efficient Flooding Algorithm and MultiPoint Relay (MPR) Algorithm in a Vehicular Ad Hoc Network (VANET). Each vehicle is equipped with a mini PC with a simulated WiFi environment such as communication range and propagation characteristics (e.g. packet loss) will model actual WiFi links set in ad-hoc (IBSS) mode.
+The network layer uses UDP datagrams to deliver vehicle information, such as GPS position, velocity, acceleration, yaw, and so forth.
+Since UDP datagrams are deliveryed in a high speed, one challenge is file conflict which is solved by using a configure file which share network status. This configure file is saved tux machine, which can solve file conflict when share file.
+
+
+

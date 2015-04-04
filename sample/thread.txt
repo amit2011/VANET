@@ -1,0 +1,24 @@
+thread
+for (int i = 0; i < 5; i++) {
+System.out.println(name + "运行     " + i);}
+hello h1=new hello("A");
+h1.run();
+h1.start();
+
+runnable很容易的实现资源共享
+for (int i = 0; i < 5; i++) {
+System.out.println(name + "运行     " + i);}
+hello h1=new hello("线程A");
+Thread demo= new Thread(h1);
+demo.start();
+
+hello he = new hello();
+new Thread(he,"A").start();
+
+线程的休眠
+Thread.sleep(2000);
+
+线程同步
+synchronized (this) {}
+public synchronized void sale() {}
+

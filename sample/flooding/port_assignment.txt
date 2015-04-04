@@ -1,0 +1,21 @@
+COMP 5360/6360
+
+Open Ports in Tux Linux computers
+-----------------------------
+
+In each of the Linux computers, tux175 to tux198, in Davis 123,
+each group is assigned 10 port numbers as follows: 
+
+G1: wallace, denney         	     	10100 to 10109 
+G2: priest, hubble, perez    		10110 to 10119 
+G3: girton, shanahay		         	10120 to 10129 
+G4: wang, gao, shi          	     10130 to 10139 
+G5: mcclain, reyes                    10140 to 10149 
+G6: plotts, whaley			     10150 to 10159 
+G7: lowman, thomas, bramlette         10160 to 10169 
+G8: sun, grand					10170 to 10179
+G9: hussey, pouncey, clary            10180 to 10189 
+G10: muzafar, boyd		      	10190 to 10199
+
+
+Use only the port numbers assigned to your group.
